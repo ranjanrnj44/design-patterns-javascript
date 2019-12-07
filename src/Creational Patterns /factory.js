@@ -1,5 +1,5 @@
 /**
- * Crerational Patterns
+ * Creational Patterns
  */
 
 /**
