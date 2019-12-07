@@ -9,6 +9,7 @@
 /**
  * Problem as explained under Factory Method in
  * https://refactoring.guru/design-patterns/abstract-factory
+ * for better understanding use - https://quokkajs.com/
  */
  
 /**
@@ -458,7 +459,7 @@ var MercedesFactory = function(type) {
     }
     return this.factory
 }
-
+de
 /**
  * Here comes the Abstract Factory which returns
  * a Car Factory to Create a Car depending upon
